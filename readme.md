@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on Flutter App Projects.
 - 🤔 I’m looking for help with End-to-End Encryption in Apps.
 - 💬 Ask me about College life, Computer Science Branch and Coding.
-- 📫 How to reach me: Well, Twitter  and Github are the best ways to contact me.
+- 📫 How to reach me: Well, Twitter and Github are the best ways to contact me.
 - ⚡ Fun fact: I am Musicofanatic 🎧
 
 ## **📔 Github Stats :**
