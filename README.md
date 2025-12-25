@@ -1,13 +1,9 @@
-## Github : Arsharaj Chauhan
+### 🚀 Ongoing Projects
 
-> Software Engineer
+### 📚 Public Projects
 
-### `🚀 Ongoing Projects`
+### 🔒 Private Projects
 
-### `📚 Public Projects`
+### 📊 Statistics
 
-### `🔒 Private Projects`
-
-### `📊 Statistics`
-
-### `📬 Contact Me`
+### 📬 Contact Me
