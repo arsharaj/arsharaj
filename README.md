@@ -1,3 +1,5 @@
+![Banner](banner.png)
+
 ### Projects
 
 1. 🔓 [Project : Image Cropper](https://github.com/arsharaj/project-image-cropper) - Cut out the clutter.
