@@ -1,8 +1,4 @@
-### Ongoing Projects
-
-### Public Projects
-
-### Private Projects
+### Projects
 
 ### Statistics
 
