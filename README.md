@@ -1,9 +1,6 @@
 ### Projects
 
-- [Tutorial : Webinar Aktu AI ML DL](https://github.com/arsharaj/tutorial-webinar-aktu-ai-ml-dl)
-  - Description : Study material related to this webinar
-  - Visibility : Public
-  - License : MIT
+- 🔓 [Tutorial : Webinar Aktu AI ML DL](https://github.com/arsharaj/tutorial-webinar-aktu-ai-ml-dl) - Study material related to this webinar.
 
 ### Contact Me
 
