@@ -1,9 +1,9 @@
-### 🚀 Ongoing Projects
+### Ongoing Projects
 
-### 📚 Public Projects
+### Public Projects
 
-### 🔒 Private Projects
+### Private Projects
 
-### 📊 Statistics
+### Statistics
 
-### 📬 Contact Me
+### Contact Me
