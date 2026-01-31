@@ -13,7 +13,6 @@
 1. 🌎 [Arsharaj : Profile](https://github.com/arsharaj/arsharaj) - Profile for github.
 1. 🌎 [Arsharaj : Template](https://github.com/arsharaj/arsharaj-template) - Template for github repositories.
 1. 🌎 [Arsharaj : Leetcode](https://github.com/arsharaj/arsharaj-leetcode) - Problems solved in daily leetcode challenges and weekly contests.
-1. 🌎 [Resource : Books Summary](https://github.com/arsharaj/resource-books-summary) - Book summaries from my reading journey.
 
 ## Inactive
 
@@ -29,6 +28,10 @@
 1. 🌎 [Tutorial : Apna College C Programming Language](https://github.com/arsharaj/tutorial-apna-college-c-programming-language) - Study material for C programming language.
 1. 🌎 [Tutorial : Apna College Subject Notes](https://github.com/arsharaj/tutorial-apna-college-subject-notes) - Short notes on the main computer science subjects typically asked in interviews.
 1. 🌎 [Tutorial : Webinar Aktu AI ML DL](https://github.com/arsharaj/tutorial-webinar-aktu-ai-ml-dl) - Study material related to this webinar.
+
+## Archive
+
+1. 🌎 [Resource : Books Summary](https://github.com/arsharaj/resource-books-summary) - Book summaries from my reading journey.
 
 ## Contact Me
 
