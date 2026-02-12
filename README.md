@@ -6,7 +6,6 @@
 
 1. 🔒 [Defendo : Deployment Portal](https://github.com/arsharaj/defendo-deployment-portal) - Centralized management and deployment of defendo products.
 1. 🔒 [Defendo : AI Observability](https://github.com/arsharaj/defendo-ai-observability) - Artificial intelligence based observability platform.
-1. 🌎 [Project : Lineup](https://github.com/arsharaj/project-lineup) - Digital queue management system.
 
 ## Evergoing
 
