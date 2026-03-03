@@ -1,11 +1,8 @@
 ![Banner](banner.png)
 
-> Simple is complex enough at scale
+> Simple is complex enough at scale 😉
 
 ## Ongoing
-
-1. 🔒 [Defendo : Deployment Portal](https://github.com/arsharaj/defendo-deployment-portal) - Centralized management and deployment of defendo products.
-1. 🔒 [Defendo : AI Observability](https://github.com/arsharaj/defendo-ai-observability) - Artificial intelligence based observability platform.
 
 ## Evergoing
 
